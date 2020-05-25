@@ -1,18 +1,18 @@
 @media only screen and (max-width: 300px){
-body{background-color: rgba(255, 95, 95, 0.973);}
+body{background-color: rgba(255, 95, 95, 0.973);font-size: 10px;}
 }
 @media only screen and (min-width: 300px){
-body{background-color: rgb(66, 184, 72);}
+body{background-color: rgb(66, 184, 72); font-size: 15px;}
 }
 @media only screen and (min-width: 768px){
-body{background-color: rgb(89, 133, 184);}
+body{background-color: rgb(89, 133, 184); font-size: 20px;}
 }
 @media only screen and (max-width: 300px){
-.petit{font-size: 10px; color:rgb(172, 84, 172)}
+.petit{font-size: 10px; color:rgb(172, 84, 172);display: none}
 }
 @media only screen and (max-width: 768px){
-.moyen{font-size: 15px; color: rgb(88, 126, 113);}
+.moyen{font-size: 15px; color: rgb(88, 126, 113); display: none;}
 }
 @media only screen and (min-width: 768px){
-.grand{font-size: 20px;color: rgb(3, 2, 2);}
+.grand{color: rgb(3, 2, 2);}
 }
