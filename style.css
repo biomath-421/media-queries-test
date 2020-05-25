@@ -11,7 +11,7 @@ body{background-color: rgb(89, 133, 184);}
 .petit{font-size: 10px; color:rgb(172, 84, 172)}
 }
 @media only screen and (max-width: 768px){
-.moyen{font-size: 15px; color: rgb(40, 82, 68);}
+.moyen{font-size: 15px; color: rgb(88, 126, 113);}
 }
 @media only screen and (min-width: 768px){
 .grand{font-size: 20px;color: rgb(3, 2, 2);}
