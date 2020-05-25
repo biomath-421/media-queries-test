@@ -1,0 +1,17 @@
+@media only screen and (max-width: 300px){
+body{background-color: rgb(233, 233, 233);}
+}
+@media only screen and (min-width: 300px){
+body{background-color: rgb(199, 199, 199);}
+}
+@media only screen and (min-width: 768px){
+body{background-color: rgb(179, 179, 179);}
+}
+@media only screen and (max-width: 300px){
+.petit{font-size: 10px; color:rgb(170, 170, 170)}
+@media only screen and (max-width: 768px){
+.moyen{font-size: 15px; color: rgb(151, 151, 151);}
+}
+@media only screen and (min-width: 768px){
+.grand{font-size: 20px;color: rgb(110, 110, 110);}
+}
